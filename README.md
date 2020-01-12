@@ -14,24 +14,15 @@ Inventory Management System (written in C#)
 ## Classes and Forms
 ### Per Instructions, the following classes were created:
 1. Part.cs
-
 2. Product.cs
-
 3. Inhouse.cs
-
 4. Outsourced.cs
-
 5. Inventory.cs
-
 6. Program.cs was created by Visual Studio by default to house the Main() function.
 
 ### The following forms were created:
 1. Main
-
 2. AddPart
-
 3. AddProduct
-
 4. ModifyPart
-
 5. ModifyProduct
